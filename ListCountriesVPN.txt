@@ -1,0 +1,157 @@
+Country,List,City,VpnServer
+AFGHANISTAN,Afghanistan,Kabul,vlus-af1.pointtoserver.com
+ALBANIA,Albania,Tirane,al1.pointtoserver.com
+ALGERIA,Algeria,Algiers,vlus-dz1.pointtoserver.com
+ANGOLA,Angola,Benguela,vlus-ao1.pointtoserver.com
+ARGENTINA,Argentina,Buenos Aires,vlus-ar1.pointtoserver.com
+ARMENIA,Armenia,Yerevan,vleu-am1.pointtoserver.com
+ARMENIA,Armenia,Singapore,sg1.pointtoserver.com.
+ARUBA,Aruba,Oranjestad,aw1.pointtoserver.com
+AUSTRALIA,Australia,Melbourne,au-me1.pointtoserver.com
+AUSTRALIA,Australia,Brisbane,au-bn.pointtoserver.com
+AUSTRALIA,Australia,Sydney,au-sd1.pointtoserver.com
+AUSTRALIA,Australia,Perth,au-pe1.pointtoserver.com
+AUSTRIA,Austria,Vienna,at1.pointtoserver.com
+AZERBAIJAN,Azerbaijan,Baku,az1.pointtoserver.com
+BAHRAIN,Bahrain,Manama,bh.pointtoserver.com
+BANGLADESH,Bangladesh,Dhaka,vlus-bd1.pointtoserver.com
+BARBADOS,Barbados,Bridgetown,vleu-bb.pointtoserver.com
+BELGIUM,Belgium,Brussels,vleu-be1.pointtoserver.com
+BELIZE,Belize,Belmopan,bz1.pointtoserver.com
+BERMUDA,Bermuda,Hamilton,vleu-bm.pointtoserver.com
+BOLIVIA,Bolivia,Sucre,vleu-bo.pointtoserver.com
+BOSNIA AND HERZEGOVINA,Bosnia and Herzegovina,Sarajevo,ba1.pointtoserver.com
+BRAZIL,Brazil,Sao Paulo,br1.pointtoserver.com
+BRITISH VIRGIN ISLAND,British Virgin Island,Road Town,vg1.pointtoserver.com
+BRUNEI DARUSSALAM,Brunei Darussalam,Bandar Seri Begawan,bn1.pointtoserver.com
+BULGARIA,Bulgaria,Sofia,bg1.pointtoserver.com
+CAMBODIA,Cambodia,Phnom Penh,kh1.pointtoserver.com
+CANADA,Canada,Toronto,cato.pointtoserver.com
+CANADA,Canada,Vancouver,cav1.pointtoserver.com
+CANADA,Canada,Montreal,caq1.pointtoserver.com
+CAPE VERDE,Cape Verde,Praia,vleu-cv.pointtoserver.com
+CAYMAN ISLANDS,Cayman Islands,George Town,vleu-ky.pointtoserver.com
+CHILE,Chile,Santiago,vlbr-cl.pointtoserver.com
+CHINA,China,Beijing,cn1.pointtoserver.com
+CHINA,China,Shanghai,cn-hn1.pointtoserver.com
+COLOMBIA,Colombia,Bogota,co1.pointtoserver.com
+COSTA RICA,Costa Rica,San Jose,vlus-cr1.pointtoserver.com
+CROATIA,Croatia,Zagreb,vlus-hr1.pointtoserver.com
+CYPRUS,Cyprus,Nicosia,cy1.pointtoserver.com
+CZECH REPUBLIC,Czech Republic,Prague,cz.pointtoserver.com
+DENMARK,Denmark,Copenhagen,vleu-dk1.pointtoserver.com
+DOMINICA,Dominica,Roseau,vleu-dm.pointtoserver.com
+DOMINICAN REPUBLIC,Dominican Republic,Santo Domingo,vleu-do.pointtoserver.com
+ECUADOR,Ecuador,Quito,ec1.pointtoserver.com
+EGYPT,Egypt,Cairo,vlus-eg1.pointtoserver.com
+EL SALVADOR,El Salvador,San Salvador,vleu-sv.pointtoserver.com
+ESTONIA,Estonia,Tallinn,ee1.pointtoserver.com
+ETHIOPIA,Ethiopia,Addis Ababa,et1.pointtoserver.com
+FINLAND,Finland,Espoo,fi1.pointtoserver.com
+FRANCE,France,Paris,fr1.pointtoserver.com
+GEORGIA,Georgia,Tbilisi,vlus-ge1.pointtoserver.com
+GERMANY,Germany,Frankfurt,de1.pointtoserver.com
+GERMANY,Germany,Nuremberg,de-ao1.pointtoserver.com
+GERMANY,Germany,Munich,de1.pointtoserver.com
+GHANA,Ghana,Accra,gh1.pointtoserver.com
+GREECE,Greece,Thessaloniki,gr1.pointtoserver.com
+GRENADA,Grenada,St George's,vleu-gd.pointtoserver.com
+GUATEMALA,Guatemala,Guatemala,vleu-gt.pointtoserver.com
+GUYANA,Guyana,Georgetown,vleu-gy.pointtoserver.com
+HAITI,Haiti,PORT-AU-PRINCE,vleu-ht1.pointtoserver.com
+HONDURAS,Honduras,TEGUCIGALPA,vleu-hn.pointtoserver.com
+HONG KONG (SAR),Hong Kong (SAR),Hong Kong,hk1.pointtoserver.com
+HONG KONG (SAR),Hong Kong (SAR),Fanling,hkf1.pointtoserver.com
+HUNGARY,Hungary,Budapest,hu1.pointtoserver.com
+ICELAND,Iceland,Reykjavik,is1.pointtoserver.com
+INDIA,India,Chennai,in1.pointtoserver.com
+INDONESIA,Indonesia,Jakarta,idn1.pointtoserver.com
+IRELAND,Ireland,Dublin,ie1.pointtoserver.com
+ISLE OF MAN,Isle of Man,Onchan,im1.pointtoserver.com
+ITALY,Italy,Milano,it1.pointtoserver.com
+JAMAICA,Jamaica,Kingston,jm1.pointtoserver.com
+JAPAN,Japan,Tokyo,jp-tk1.pointtoserver.com
+JORDAN,Jordan,Amman,vlus-jo1.pointtoserver.com
+KAZAKHSTAN,Kazakhstan,Almaty,vlus-kz1.pointtoserver.com
+KENYA,Kenya,Mombasa,ke1.pointtoserver.com
+"KOREA, SOUTH","Korea, South",Seoul,kr1.pointtoserver.com
+KUWAIT,Kuwait,Kuwait,vlus-kw1.pointtoserver.com
+KYRGYZSTAN,Kyrgyzstan,Bishkek,vlus-kg1.pointtoserver.com
+LAOS,Laos,Vientiane,vlus-la1.pointtoserver.com
+LATVIA,Latvia,RIGA,lv1.pointtoserver.com
+LIECHTENSTEIN,Liechtenstein,Vaduz,li1.pointtoserver.com
+LITHUANIA,Lithuania,Vilnius,lt1.pointtoserver.com
+LUXEMBOURG,Luxembourg,Luxembourg,lu1.pointtoserver.com
+MACAO,Macao,Beyrouth,mo1.pointtoserver.com
+MADAGASCAR,Madagascar,Antananarivo,vlus-mg1.pointtoserver.com
+MALAYSIA,Malaysia,Kuala Lumpur,my-kl1.pointtoserver.com
+MALAYSIA,Malaysia,Johor Baharu,my1.pointtoserver.com
+MALTA,Malta,Sliema,mt1.pointtoserver.com
+MAURITANIA,Mauritania,Nouakchott,vlus-mr1.pointtoserver.com
+MAURITIUS,Mauritius,Port Louis,mu1.pointtoserver.com
+MEXICO,Mexico,Mexico City,vlus-mx1.pointtoserver.com
+MONACO,Monaco,Monaco,mn1.pointtoserver.com
+MONGOLIA,Mongolia,Ulaanbaatar,vlus-mn1.pointtoserver.com
+MONTENEGRO,Montenegro,Podgorica,vleu-me1.pointtoserver.com
+MONTSERRAT,Montserrat,plymouth,vleu-ms.pointtoserver.com
+MOROCCO,Morocco,Rabat,ma1.pointtoserver.com
+NETHERLANDS,Netherlands,Amsterdam,nl1.pointtoserver.com
+NEW ZEALAND,New Zealand,Auckland,nz.pointtoserver.com
+NIGER,Niger,Niamey,vlus-ne1.pointtoserver.com
+NIGERIA,Nigeria,Suleja,ng1.pointtoserver.com
+NORWAY,Norway,Oslo,vleu-no1.pointtoserver.com
+OMAN,Oman,Salalah,om1.pointtoserver.com
+PAKISTAN,Pakistan,Islamabad,pk1.pointtoserver.com
+PANAMA,Panama,Panama City,vlus-pa1.pointtoserver.com
+PAPUA NEW GUINEA,Papua New Guinea,Port Moresby,vlus-pg1.pointtoserver.com
+PARAGUAY,Paraguay,Asuncion,vleu-py.pointtoserver.com
+PERU,Peru,Lima,pe1.pointtoserver.com
+PHILIPPINES,Philippines,Manila,vlap-ph1.pointtoserver.com
+POLAND,Poland,Warsaw,pl1.pointtoserver.com
+PORTUGAL,Portugal,Lisbon,pt1.pointtoserver.com
+PUERTO RICO,Puerto Rico,San Juan,pr1.pointtoserver.com
+QATAR,Qatar,Doha,qa1.pointtoserver.com
+ROMANIA,Romania,Bucharest,ro1.pointtoserver.com
+SAINT LUCIA,Saint Lucia,Castries,vleu-lc.pointtoserver.com
+SAUDI ARABIA,Saudi Arabia,Jeddah,sa1.pointtoserver.com
+SENEGAL,Senegal,Dakar,vlus-sn1.pointtoserver.com
+SERBIA,Serbia,Niš,rs1.pointtoserver.com
+SEYCHELLES,Seychelles,Victoria,sc1.pointtoserver.com
+SLOVENIA,Slovenia,Ljubljana,si1.pointtoserver.com
+SOUTH AFRICA,South Africa,Johannesburg,za1.pointtoserver.com
+SPAIN,Spain,Barcelona,es1.pointtoserver.com
+SRI LANKA,Sri Lanka,Colombo,vlus-lk1.pointtoserver.com
+SURINAME,Suriname,Paramaribo,vleu-sr.pointtoserver.com
+SWEDEN,Sweden,Stockholm,se1.pointtoserver.com
+SWITZERLAND,Switzerland,Zurich,ch1.pointtoserver.com
+TAIWAN,Taiwan,Taipei,vlap-tw1.pointtoserver.com
+TAJIKISTAN,Tajikistan,Dushanbe,vlus-tj1.pointtoserver.com
+TANZANIA,Tanzania,Dar Es Salaam,vlus-tz1.pointtoserver.com
+THAILAND,Thailand,Bangkok,vlap-th1.pointtoserver.com
+THE BAHAMAS,The Bahamas,Freeport,bs1.pointtoserver.com
+TRINIDAD AND TOBAGO,Trinidad and Tobago,Port of Spain,vleu-tt.pointtoserver.com
+TUNISIA,Tunisia,Tunis,vlus-tn1.pointtoserver.com
+TURKEY,Turkey,Istanbul,tr1.pointtoserver.com
+TURKMENISTAN,Turkmenistan,Ashgabat,vlus-tm1.pointtoserver.com
+TURKS AND CAICOS ISLANDS,Turks and Caicos Islands,Balfour Town,vleu-tc.pointtoserver.com
+UNITED ARAB EMIRATES,United Arab Emirates,Dubai,ae1.pointtoserver.com
+UNITED KINGDOM,United Kingdom,Manchester,vlus-uk-man1.pointtoserver.com
+UNITED KINGDOM,United Kingdom,London,ukl1.pointtoserver.com
+UNITED KINGDOM,United Kingdom,Maidenhead,ukm1.pointtoserver.com
+UNITED KINGDOM,United Kingdom,Gosport,ukg1.pointtoserver.com
+UNITED STATES,United States,Columbus,usoh1.pointtoserver.com
+UNITED STATES,United States,Chicago,usil1.pointtoserver.com
+UNITED STATES,United States,Ashburn,usva.pointtoserver.com
+UNITED STATES,United States,San Francisco,ussf.pointtoserver.com
+UNITED STATES,United States,Houston,ustx1.pointtoserver.com
+UNITED STATES,United States,Georgia,usga1.pointtoserver.com
+UNITED STATES,United States,Los Angeles,usla1.pointtoserver.com
+UNITED STATES,United States,Miami,usfl1.pointtoserver.com
+UNITED STATES,United States,Phoenix,usphx1.pointtoserver.com
+UNITED STATES,United States,Seattle,ussa.pointtoserver.com
+UNITED STATES,United States,Salt Lake City,usut.pointtoserver.com
+UNITED STATES,United States,"Washington, D.C.",uswdc1.pointtoserver.com
+UNITED STATES,United States,New Jersey,usnj1.pointtoserver.com
+UNITED STATES,United States,New York,usny1.pointtoserver.com
+UZBEKISTAN,Uzbekistan,Tashkent,vlus-uz1.pointtoserver.com
+VIETNAM,Vietnam,Hanoi,vlap-vn1.pointtoserver.com
